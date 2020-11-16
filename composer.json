@@ -1,0 +1,19 @@
+{
+    "name": "yolar/hello-world",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anatoly Kochetkov",
+            "email": "yolar.sh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
